@@ -2,6 +2,7 @@
 ## Description
 A static ecommerce website project for the end of Term 1 in the Second year for Web Design course. This project demonstrate the team member's skills in HTML, CSS and Designing.
 ## Folder Structure
+```
 ecommerce-website/
 │
 ├── index.html         # Home page
@@ -25,7 +26,7 @@ ecommerce-website/
 │
 └── docs/              # Documentation and planning
     └── README.md      # Project overview or guidelines
-
+```
 
 
 ## Technologies Used
